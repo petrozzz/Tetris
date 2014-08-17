@@ -1,0 +1,5 @@
+     axel  -                  7000
+     abcd  -                  1003
+      abc  -                  1001
+    abcde  -                  1000
+     axel  -                   700

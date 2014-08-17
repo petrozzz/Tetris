@@ -1,0 +1,19 @@
+Content\bg800x600.xnb
+Content\logo_dual800x600.xnb
+Content\logo_tetris800x600.xnb
+Content\Box.xnb
+Content\Line.xnb
+Content\noblock.xnb
+Content\block.xnb
+Content\slidebg.xnb
+Content\slider.xnb
+Content\sliderLeft.xnb
+Content\sliderRight.xnb
+Content\inGameOverlay.xnb
+Content\redblock.xnb
+Content\debugFont.xnb
+Content\SketchBlockFont.xnb
+Content\SketchBlockSmall.xnb
+Content\TetrisAudio.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bg800x600.png</Source>
+      <Name>bg800x600</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\bg800x600.xnb</Output>
+      <Time>2012-12-27T19:37:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>logo_dual800x600.png</Source>
+      <Name>logo_dual800x600</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\logo_dual800x600.xnb</Output>
+      <Time>2012-12-27T19:37:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>logo_tetris800x600.png</Source>
+      <Name>logo_tetris800x600</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\logo_tetris800x600.xnb</Output>
+      <Time>2012-12-27T19:37:31+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Box.png</Source>
+      <Name>Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\Box.xnb</Output>
+      <Time>2012-12-28T04:05:43+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Line.png</Source>
+      <Name>Line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\Line.xnb</Output>
+      <Time>2012-12-28T04:08:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>noblock.png</Source>
+      <Name>noblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\noblock.xnb</Output>
+      <Time>2013-01-03T15:00:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>block.png</Source>
+      <Name>block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2013-01-03T15:00:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>slidebg.png</Source>
+      <Name>slidebg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\slidebg.xnb</Output>
+      <Time>2013-01-03T19:20:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>slider.png</Source>
+      <Name>slider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\slider.xnb</Output>
+      <Time>2013-01-03T19:20:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sliderLeft.png</Source>
+      <Name>sliderLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\sliderLeft.xnb</Output>
+      <Time>2013-01-03T19:20:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sliderRight.png</Source>
+      <Name>sliderRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\sliderRight.xnb</Output>
+      <Time>2013-01-03T19:20:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>inGameOverlay.png</Source>
+      <Name>inGameOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\inGameOverlay.xnb</Output>
+      <Time>2013-01-04T21:06:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redblock.png</Source>
+      <Name>redblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\redblock.xnb</Output>
+      <Time>2013-01-04T01:28:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>debugFont.spritefont</Source>
+      <Name>debugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\debugFont.xnb</Output>
+      <Time>2012-12-28T01:10:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SketchBlockFont.spritefont</Source>
+      <Name>SketchBlockFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\SketchBlockFont.xnb</Output>
+      <Time>2013-01-04T18:43:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SketchBlockSmall.spritefont</Source>
+      <Name>SketchBlockSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\SketchBlockSmall.xnb</Output>
+      <Time>2013-01-04T01:11:38+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{586464BD-E39E-490E-83D7-984C73F10262}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cole\Dropbox\Grupparbete - Programmering och Multimedia\Tetrisprojekt\ProjektTetris 1.0 Beta\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-22T15:57:50.8944503+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

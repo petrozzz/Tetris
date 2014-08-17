@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 249378130;
+    Bank Last Revised High = 30272124;
+
+    Wave
+    {
+        Name = block;
+        File = block.wav;
+        Build Settings Last Modified Low = 3355290692;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 303188;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2603888512;
+            Last Modified High = 30270728;
+        }
+    }
+
+    Wave
+    {
+        Name = rad;
+        File = rad.wav;
+        Build Settings Last Modified Low = 3431305039;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 303188;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 40826080;
+            Last Modified High = 30270726;
+        }
+    }
+
+    Wave
+    {
+        Name = slut;
+        File = slut.wav;
+        Build Settings Last Modified Low = 3431315040;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 379564;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3143028551;
+            Last Modified High = 30272121;
+        }
+    }
+
+    Wave
+    {
+        Name = start;
+        File = start.wav;
+        Build Settings Last Modified Low = 3431325040;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 138240;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2158077129;
+            Last Modified High = 30272118;
+        }
+    }
+
+    Wave
+    {
+        Name = tetrisloop;
+        File = tetrisloop.wav;
+        Build Settings Last Modified Low = 3431335041;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 2434936;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2550269491;
+            Last Modified High = 30268317;
+        }
+    }
+
+    Wave
+    {
+        Name = tetrismelodi double PWM;
+        File = tetrismelodi double PWM.wav;
+        Build Settings Last Modified Low = 3431345042;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 12122776;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3169052032;
+            Last Modified High = 30270733;
+        }
+    }
+
+    Wave
+    {
+        Name = tetrismelodi midi;
+        File = tetrismelodi midi.wav;
+        Build Settings Last Modified Low = 3431345042;
+        Build Settings Last Modified High = 30272121;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 12096788;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 643953920;
+            Last Modified High = 30270730;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
