@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\bg800x600.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\bg800x600.xnb</Output>
       <Time>2012-12-27T19:37:31+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\logo_dual800x600.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\logo_dual800x600.xnb</Output>
       <Time>2012-12-27T19:37:31+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\logo_tetris800x600.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\logo_tetris800x600.xnb</Output>
       <Time>2012-12-27T19:37:31+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\Box.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\Box.xnb</Output>
       <Time>2012-12-28T04:05:43+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\Line.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\Line.xnb</Output>
       <Time>2012-12-28T04:08:47+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\noblock.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\noblock.xnb</Output>
       <Time>2013-01-03T15:00:04+01:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\block.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\block.xnb</Output>
       <Time>2013-01-03T15:00:10+01:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\slidebg.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\slidebg.xnb</Output>
       <Time>2013-01-03T19:20:02+01:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\slider.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\slider.xnb</Output>
       <Time>2013-01-03T19:20:02+01:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\sliderLeft.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\sliderLeft.xnb</Output>
       <Time>2013-01-03T19:20:02+01:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\sliderRight.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\sliderRight.xnb</Output>
       <Time>2013-01-03T19:20:02+01:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\inGameOverlay.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\inGameOverlay.xnb</Output>
       <Time>2013-01-04T21:06:53+01:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\redblock.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\redblock.xnb</Output>
       <Time>2013-01-04T01:28:07+01:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\debugFont.xnb</Output>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\debugFont.xnb</Output>
       <Time>2012-12-28T01:10:16+01:00</Time>
     </Item>
     <Item>
@@ -133,8 +133,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\SketchBlockFont.xnb</Output>
-      <Time>2013-12-18T15:09:11.4624772+01:00</Time>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\SketchBlockFont.xnb</Output>
+      <Time>2013-12-18T15:09:07+01:00</Time>
     </Item>
     <Item>
       <Source>SketchBlockSmall.spritefont</Source>
@@ -142,8 +142,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\SketchBlockSmall.xnb</Output>
-      <Time>2013-12-18T15:09:17.2878112+01:00</Time>
+      <Output>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\SketchBlockSmall.xnb</Output>
+      <Time>2013-12-18T15:09:17+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -152,10 +152,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\TetrisContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\TetrisContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\TetrisContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -184,7 +184,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-09-23T11:32:21.730313+02:00</Value>
+        <Value>2013-07-31T13:58:27.6967518+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

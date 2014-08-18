@@ -48,3 +48,5 @@ Z:\Pinnen On My Mac\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\Proj
 Z:\Pinnen On My Mac\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ Fungerande Dunk\Tetris\TetrisContent\obj\x86\Debug\TetrisAudio.xml
 C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache
 C:\Users\Pinn\Dropbox\Grupparbete - Skarp Programmering\Tetrisprojekt\ProjektTetris 1.0 Beta _ trial\Tetris\TetrisContent\obj\x86\Debug\TetrisAudio.xml
+F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\TetrisContent\obj\x86\Debug\TetrisContent.contentprojResolveAssemblyReference.cache
+F:\DropBox\Dropbox\Arbete\Playaround Projects\ProjektTetris 1.0\Tetris\TetrisContent\obj\x86\Debug\TetrisAudio.xml
